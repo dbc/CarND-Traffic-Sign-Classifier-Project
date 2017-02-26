@@ -1,0 +1,3 @@
+YUV data, with basic lenet netowrk.
+learning rat 0.001`
+

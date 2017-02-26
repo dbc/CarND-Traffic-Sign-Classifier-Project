@@ -1,0 +1,1 @@
+Using greay scale data on basic lenet with 1 channeel input.
